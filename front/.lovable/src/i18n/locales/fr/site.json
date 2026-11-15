@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "eyebrow": "Livraison & pose à domicile · Casablanca",
+    "title": "Vos plaques MA, directement chez vous",
+    "subtitle": "Commandez vos plaques d'immatriculation homologuées en 3 minutes. Un technicien MaPlak les livre et les pose devant chez vous, en moins de 24 h.",
+    "stat1": "24 h", "stat1Label": "délai moyen",
+    "stat2": "4,9/5", "stat2Label": "avis clients",
+    "stat3": "+3 200", "stat3Label": "véhicules équipés",
+    "badge": "Homologuées · Norme marocaine"
+  },
+  "services": {
+    "eyebrow": "Nos services",
+    "title": "Une plaque, ou la paire complète",
+    "subtitle": "Plaques en aluminium embouti conformes à la réglementation marocaine, fabriquées à partir de votre carte grise.",
+    "includes": "Inclus : fabrication, livraison et pose",
+    "popular": "Le plus choisi",
+    "save": "Économisez {{amount}}"
+  },
+  "how": {
+    "eyebrow": "Comment ça marche",
+    "title": "4 étapes, zéro déplacement",
+    "steps": [
+      { "title": "Vos coordonnées", "text": "Nom et téléphone suffisent. Aucun compte à créer." },
+      { "title": "Vos plaques", "text": "Choisissez avant, arrière ou la paire et votre numéro." },
+      { "title": "Vos documents", "text": "Photographiez votre CIN et votre carte grise depuis votre téléphone." },
+      { "title": "Livraison & pose", "text": "Un technicien vient chez vous et installe les plaques." }
+    ]
+  },
+  "advantages": {
+    "eyebrow": "Pourquoi MaPlak",
+    "title": "Le service premium de la plaque à Casablanca",
+    "items": [
+      { "title": "100 % homologuées", "text": "Plaques conformes à la norme marocaine, numéros vérifiés sur carte grise." },
+      { "title": "Livrées en 24 h", "text": "Fabrication rapide et livraison dans tous les quartiers de Casablanca." },
+      { "title": "Pose incluse", "text": "Nos techniciens fixent vos plaques proprement, sans percer inutilement." },
+      { "title": "Paiement flexible", "text": "Payez en ligne ou en espèces au moment de la livraison." },
+      { "title": "Documents protégés", "text": "Vos documents servent uniquement à la vérification de votre commande." },
+      { "title": "Support WhatsApp", "text": "Une équipe joignable 6 jours sur 7 pour suivre votre commande." }
+    ]
+  },
+  "pricing": {
+    "eyebrow": "Tarifs",
+    "title": "Des prix clairs, tout compris",
+    "subtitle": "Fabrication, livraison et pose à domicile. Pas de frais cachés.",
+    "delivery": "Livraison & pose : {{fee}}",
+    "freeDelivery": "Livraison offerte dès {{amount}}",
+    "features": ["Plaque aluminium homologuée", "Fixations incluses", "Pose par un technicien", "Livraison à domicile"],
+    "cta": "Choisir cette offre"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Questions fréquentes",
+    "items": [
+      { "q": "Quels documents dois-je fournir ?", "a": "Une photo du recto et du verso de votre CIN ainsi que de votre carte grise. Ils permettent de vérifier que vous êtes bien autorisé à commander ces plaques." },
+      { "q": "Combien de temps pour être livré ?", "a": "En moyenne 24 h après validation de vos documents. Les commandes validées avant 14 h peuvent être livrées le jour même selon le quartier." },
+      { "q": "Livrez-vous en dehors de Casablanca ?", "a": "Pas pour le moment. MaPlak Casa dessert uniquement les quartiers de Casablanca." },
+      { "q": "Puis-je payer à la livraison ?", "a": "Oui, vous pouvez payer en espèces au technicien au moment de la pose, ou en ligne lors de la commande." },
+      { "q": "Les plaques sont-elles homologuées ?", "a": "Oui. Toutes nos plaques respectent la réglementation marocaine en vigueur (format, police et matériaux)." },
+      { "q": "Dois-je créer un compte ?", "a": "Non. Votre nom et votre numéro de téléphone suffisent ; nous vous contactons sur WhatsApp pour le suivi." }
+    ]
+  },
+  "cta": {
+    "title": "Prêt à rouler avec des plaques neuves ?",
+    "text": "Commandez maintenant, on s'occupe du reste.",
+    "secondary": "Une question ? Écrivez-nous"
+  },
+  "pages": {
+    "servicesTitle": "Nos services de plaques",
+    "servicesText": "Choisissez la plaque qu'il vous faut : nous la fabriquons, la livrons et l'installons chez vous à Casablanca.",
+    "pricingTitle": "Tarifs MaPlak Casa",
+    "pricingText": "Toutes nos offres incluent la fabrication, la livraison et la pose à domicile.",
+    "faqTitle": "Questions fréquentes",
+    "faqText": "Tout ce qu'il faut savoir avant de commander vos plaques.",
+    "faqMore": "Vous ne trouvez pas votre réponse ?"
+  }
+}

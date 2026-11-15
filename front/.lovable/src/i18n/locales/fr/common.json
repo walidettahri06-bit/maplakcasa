@@ -1,0 +1,149 @@
+{
+  "brand": "MaPlak Casa",
+  "tagline": "Plaques d'immatriculation livrées et posées à Casablanca",
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "pricing": "Tarifs",
+    "howItWorks": "Fonctionnement",
+    "faq": "FAQ",
+    "order": "Commander",
+    "admin": "Espace admin",
+    "menu": "Menu",
+    "close": "Fermer"
+  },
+  "actions": {
+    "orderNow": "Commander maintenant",
+    "seePricing": "Voir les tarifs",
+    "next": "Continuer",
+    "back": "Retour",
+    "confirm": "Confirmer",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "edit": "Modifier",
+    "remove": "Retirer",
+    "replace": "Remplacer",
+    "view": "Voir",
+    "close": "Fermer",
+    "copy": "Copier",
+    "copied": "Copié",
+    "retry": "Réessayer",
+    "backHome": "Retour à l'accueil",
+    "contactWhatsapp": "Nous écrire sur WhatsApp",
+    "callUs": "Nous appeler",
+    "choose": "Choisir",
+    "selected": "Sélectionné"
+  },
+  "language": {
+    "label": "Langue",
+    "fr": "Français",
+    "ar": "العربية"
+  },
+  "services": {
+    "front": {
+      "name": "Plaque avant",
+      "short": "Avant",
+      "description": "Plaque homologuée pour l'avant du véhicule, fixation incluse."
+    },
+    "rear": {
+      "name": "Plaque arrière",
+      "short": "Arrière",
+      "description": "Plaque homologuée pour l'arrière du véhicule, fixation incluse."
+    },
+    "pair": {
+      "name": "Paire de plaques",
+      "short": "Paire",
+      "description": "Avant + arrière, la solution complète au meilleur prix."
+    }
+  },
+  "orderStatus": {
+    "pending": "En attente",
+    "documents_review": "Vérification docs",
+    "confirmed": "Confirmée",
+    "in_production": "En fabrication",
+    "out_for_delivery": "En livraison",
+    "delivered": "Livrée",
+    "cancelled": "Annulée"
+  },
+  "documentStatus": {
+    "pending": "À vérifier",
+    "approved": "Validé",
+    "rejected": "Refusé"
+  },
+  "documents": {
+    "cin_front": "CIN – recto",
+    "cin_back": "CIN – verso",
+    "carte_grise": "Carte grise"
+  },
+  "paymentMethod": {
+    "bank_transfer": "Virement bancaire (WhatsApp)",
+    "cod": "Paiement à la livraison"
+  },
+  "paymentStatus": {
+    "pending": "En attente",
+    "paid": "Payé",
+    "failed": "Échoué",
+    "refunded": "Remboursé",
+    "cancelled": "Annulé"
+  },
+  "deliveryStatus": {
+    "unscheduled": "À planifier",
+    "scheduled": "Planifiée",
+    "in_transit": "En route",
+    "delivered": "Livrée",
+    "failed": "Échec"
+  },
+  "validation": {
+    "required": "Ce champ est obligatoire",
+    "nameMin": "Saisissez au moins 3 caractères",
+    "nameMax": "80 caractères maximum",
+    "nameChars": "Lettres, espaces et tirets uniquement",
+    "phone": "Numéro marocain invalide (ex : 06 12 34 56 78)",
+    "email": "Adresse e-mail invalide",
+    "emailMax": "120 caractères maximum",
+    "plateSerial": "1 à 5 chiffres",
+    "plateLetter": "Choisissez la lettre",
+    "plateRegion": "Code entre 1 et 89",
+    "addressMin": "Adresse trop courte (8 caractères min.)",
+    "addressMax": "200 caractères maximum",
+    "neighborhood": "Choisissez votre quartier",
+    "instructionsMax": "300 caractères maximum",
+    "fileType": "Format accepté : JPG, PNG, WEBP ou PDF",
+    "fileSize": "Fichier trop lourd (5 Mo maximum)",
+    "fileRequired": "Document obligatoire",
+    "servicesRequired": "Sélectionnez au moins un service",
+    "terms": "Vous devez accepter les conditions",
+    "location": "Indiquez votre position sur la carte"
+  },
+  "footer": {
+    "about": "Service de plaques d'immatriculation homologuées avec livraison et pose à domicile, partout à Casablanca.",
+    "links": "Navigation",
+    "contact": "Contact",
+    "legal": "Informations",
+    "terms": "Conditions générales",
+    "privacy": "Confidentialité",
+    "hours": "Horaires",
+    "zone": "Zone desservie : Casablanca uniquement",
+    "rights": "Tous droits réservés.",
+    "demo": "Les données de commande sont transmises de manière sécurisée à MaPlak Casa."
+  },
+  "whatsapp": {
+    "label": "Contact WhatsApp",
+    "message": "Bonjour MaPlak Casa, je souhaite commander des plaques d'immatriculation."
+  },
+  "misc": {
+    "loading": "Chargement…",
+    "free": "Offerte",
+    "perUnit": "/ unité",
+    "from": "À partir de",
+    "mad": "MAD",
+    "optional": "facultatif",
+    "demo": "Démo",
+    "error": "Une erreur est survenue",
+    "empty": "Aucun résultat"
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "text": "Cette page n'existe pas ou a été déplacée."
+  }
+}
